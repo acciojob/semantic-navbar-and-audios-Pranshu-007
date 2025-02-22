@@ -1,2 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
 
-/* Your CSS Code here. */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+audio {
+    display: block;
+    margin: 10px 0;
+}
